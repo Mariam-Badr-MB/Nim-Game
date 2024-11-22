@@ -19,3 +19,22 @@ This is a simple two-player game where players compete to reach **exactly 100 po
 3. The game announces the winner once a player reaches exactly 100 points.
 
 ---
+
+---
+
+## Requirements
+- Python 3.x
+
+---
+
+## How to Contribute
+1. Fork this repository.
+2. Clone your fork to your local machine.
+3. Make your changes.
+4. Push your changes to your fork.
+5. Submit a pull request.
+
+---
+
+## License
+This project is open source and available under the [MIT License](LICENSE).
